@@ -144,7 +144,7 @@ namespace exament3
             }
             return total;
         }
-
+        // Cálculo de ingresos por turno y total
         static void MostrarReporte()
         {
             double manana = CalcularIngresosTurno(0);
@@ -178,6 +178,7 @@ namespace exament3
         }
     }
 }
+
 
 
 
