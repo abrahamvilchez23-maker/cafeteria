@@ -12,7 +12,7 @@ namespace exament3
     {
         static string[] nombresCombos = { "Café + Pan", "Jugo + Sándwich", "Té + Galletas" };
         static double[] preciosCombos = { 3.50, 5.00, 2.75 };
-
+        // Uso de matriz bidimensional
         static string[,] estudiantes = new string[2, 20];
         static int[,] combos = new int[2, 20];
 
@@ -178,6 +178,7 @@ namespace exament3
         }
     }
 }
+
 
 
 
