@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace exament3
 {
-    // Implementación del menú de combos
+// Creación del menú principal
     class Cafeteria
     {
         static string[] nombresCombos = { "Café + Pan", "Jugo + Sándwich", "Té + Galletas" };
@@ -177,5 +177,6 @@ namespace exament3
         }
     }
 }
+
 
 
