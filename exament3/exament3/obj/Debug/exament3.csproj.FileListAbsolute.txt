@@ -1,0 +1,7 @@
+C:\Users\abrah\OneDrive\Desktop\exament3\exament3\bin\Debug\exament3.exe.config
+C:\Users\abrah\OneDrive\Desktop\exament3\exament3\bin\Debug\exament3.exe
+C:\Users\abrah\OneDrive\Desktop\exament3\exament3\bin\Debug\exament3.pdb
+C:\Users\abrah\OneDrive\Desktop\exament3\exament3\obj\Debug\exament3.csproj.AssemblyReference.cache
+C:\Users\abrah\OneDrive\Desktop\exament3\exament3\obj\Debug\exament3.csproj.CoreCompileInputs.cache
+C:\Users\abrah\OneDrive\Desktop\exament3\exament3\obj\Debug\exament3.exe
+C:\Users\abrah\OneDrive\Desktop\exament3\exament3\obj\Debug\exament3.pdb
