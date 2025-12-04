@@ -96,7 +96,7 @@ namespace exament3
                 }
             }
         }
-
+        // Cancelación de reservas
         static void CancelarReserva()
         {
             Console.Write("Nombre del estudiante a cancelar: ");
@@ -178,6 +178,7 @@ namespace exament3
         }
     }
 }
+
 
 
 
