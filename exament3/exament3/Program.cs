@@ -154,7 +154,7 @@ namespace exament3
             Console.WriteLine("Ingresos turno tarde: S/. " + tarde);
             Console.WriteLine("Total general: S/. " + (manana + tarde));
         }
-
+        // Búsqueda de reservas por nombre
         static void BuscarReserva()
         {
             Console.Write("Nombre a buscar: ");
@@ -178,6 +178,7 @@ namespace exament3
         }
     }
 }
+
 
 
 
