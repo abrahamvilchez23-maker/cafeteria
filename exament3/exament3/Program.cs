@@ -117,7 +117,7 @@ namespace exament3
 
             Console.WriteLine("No se encontró la reserva.");
         }
-
+        // Listado de reservas por turno
         static void ListarReservas()
         {
             Console.Write("Turno (0 = Mañana | 1 = Tarde): ");
@@ -178,6 +178,7 @@ namespace exament3
         }
     }
 }
+
 
 
 
