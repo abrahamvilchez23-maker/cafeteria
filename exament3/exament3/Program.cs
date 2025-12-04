@@ -66,7 +66,7 @@ namespace exament3
 
             return contador >= 20;
         }
-
+        // Registro de reservas
         static void RegistrarReserva()
         {
             Console.Write("Turno (0 = Mañana | 1 = Tarde): ");
@@ -178,6 +178,7 @@ namespace exament3
         }
     }
 }
+
 
 
 
